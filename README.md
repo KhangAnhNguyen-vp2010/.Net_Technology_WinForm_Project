@@ -5,5 +5,5 @@ Các Thành Viên Trong Nhóm:
 -Trần Nguyên Khang
 -Lê Tấn Phú
 -Trần Gia Huy
-=================================================================================
+
 Hướng dẫn cài đặt: Tải file rar về và chạy file setup.exe để cài đặt
