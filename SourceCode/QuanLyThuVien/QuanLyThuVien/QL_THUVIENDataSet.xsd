@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QL_THUVIENDataSet" targetNamespace="http://tempuri.org/QL_THUVIENDataSet.xsd" xmlns:mstns="http://tempuri.org/QL_THUVIENDataSet.xsd" xmlns="http://tempuri.org/QL_THUVIENDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QL_THUVIENConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QL_THUVIENConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLyThuVien.Properties.Settings.GlobalReference.Default.QL_THUVIENConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="REPORT_NHANSUTableAdapter" GeneratorDataComponentClassName="REPORT_NHANSUTableAdapter" Name="REPORT_NHANSU" UserDataComponentName="REPORT_NHANSUTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.REPORT_NHANSU" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MANV, TENNV, GIOITINH, NGAYSINH, DIACHI_NV, PHONE, VAITRO, LAST_LOGIN FROM dbo.REPORT_NHANSU</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MANV" DataSetColumn="MANV" />
+              <Mapping SourceColumn="TENNV" DataSetColumn="TENNV" />
+              <Mapping SourceColumn="GIOITINH" DataSetColumn="GIOITINH" />
+              <Mapping SourceColumn="NGAYSINH" DataSetColumn="NGAYSINH" />
+              <Mapping SourceColumn="DIACHI_NV" DataSetColumn="DIACHI_NV" />
+              <Mapping SourceColumn="PHONE" DataSetColumn="PHONE" />
+              <Mapping SourceColumn="VAITRO" DataSetColumn="VAITRO" />
+              <Mapping SourceColumn="LAST_LOGIN" DataSetColumn="LAST_LOGIN" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="REPORT_PHIEUMUONTableAdapter" GeneratorDataComponentClassName="REPORT_PHIEUMUONTableAdapter" Name="REPORT_PHIEUMUON" UserDataComponentName="REPORT_PHIEUMUONTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.REPORT_PHIEUMUON" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MAPM, MADG, MASH, NGAYLAP, NGAYMUON, HANTRA, NGAYTRA_THUCTE, TRANGTHAI, MANV_PHUTRACH FROM dbo.REPORT_PHIEUMUON</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAPM" DataSetColumn="MAPM" />
+              <Mapping SourceColumn="MADG" DataSetColumn="MADG" />
+              <Mapping SourceColumn="MASH" DataSetColumn="MASH" />
+              <Mapping SourceColumn="NGAYLAP" DataSetColumn="NGAYLAP" />
+              <Mapping SourceColumn="NGAYMUON" DataSetColumn="NGAYMUON" />
+              <Mapping SourceColumn="HANTRA" DataSetColumn="HANTRA" />
+              <Mapping SourceColumn="NGAYTRA_THUCTE" DataSetColumn="NGAYTRA_THUCTE" />
+              <Mapping SourceColumn="TRANGTHAI" DataSetColumn="TRANGTHAI" />
+              <Mapping SourceColumn="MANV_PHUTRACH" DataSetColumn="MANV_PHUTRACH" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="REPORT_PHIEUPHATTableAdapter" GeneratorDataComponentClassName="REPORT_PHIEUPHATTableAdapter" Name="REPORT_PHIEUPHAT" UserDataComponentName="REPORT_PHIEUPHATTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.REPORT_PHIEUPHAT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MAPM, MADG, MASH, NGAYLAP, TIENPHAT, PP_STATUS FROM dbo.REPORT_PHIEUPHAT</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAPM" DataSetColumn="MAPM" />
+              <Mapping SourceColumn="MADG" DataSetColumn="MADG" />
+              <Mapping SourceColumn="MASH" DataSetColumn="MASH" />
+              <Mapping SourceColumn="NGAYLAP" DataSetColumn="NGAYLAP" />
+              <Mapping SourceColumn="TIENPHAT" DataSetColumn="TIENPHAT" />
+              <Mapping SourceColumn="PP_STATUS" DataSetColumn="PP_STATUS" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QL_THUVIENDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QL_THUVIENDataSet" msprop:Generator_UserDSName="QL_THUVIENDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="REPORT_NHANSU" msprop:Generator_TableClassName="REPORT_NHANSUDataTable" msprop:Generator_TableVarName="tableREPORT_NHANSU" msprop:Generator_TablePropName="REPORT_NHANSU" msprop:Generator_RowDeletingName="REPORT_NHANSURowDeleting" msprop:Generator_RowChangingName="REPORT_NHANSURowChanging" msprop:Generator_RowEvHandlerName="REPORT_NHANSURowChangeEventHandler" msprop:Generator_RowDeletedName="REPORT_NHANSURowDeleted" msprop:Generator_UserTableName="REPORT_NHANSU" msprop:Generator_RowChangedName="REPORT_NHANSURowChanged" msprop:Generator_RowEvArgName="REPORT_NHANSURowChangeEvent" msprop:Generator_RowClassName="REPORT_NHANSURow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MANV" msprop:Generator_ColumnVarNameInTable="columnMANV" msprop:Generator_ColumnPropNameInRow="MANV" msprop:Generator_ColumnPropNameInTable="MANVColumn" msprop:Generator_UserColumnName="MANV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENNV" msprop:Generator_ColumnVarNameInTable="columnTENNV" msprop:Generator_ColumnPropNameInRow="TENNV" msprop:Generator_ColumnPropNameInTable="TENNVColumn" msprop:Generator_UserColumnName="TENNV" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GIOITINH" msprop:Generator_ColumnVarNameInTable="columnGIOITINH" msprop:Generator_ColumnPropNameInRow="GIOITINH" msprop:Generator_ColumnPropNameInTable="GIOITINHColumn" msprop:Generator_UserColumnName="GIOITINH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NGAYSINH" msprop:Generator_ColumnVarNameInTable="columnNGAYSINH" msprop:Generator_ColumnPropNameInRow="NGAYSINH" msprop:Generator_ColumnPropNameInTable="NGAYSINHColumn" msprop:Generator_UserColumnName="NGAYSINH" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DIACHI_NV" msprop:Generator_ColumnVarNameInTable="columnDIACHI_NV" msprop:Generator_ColumnPropNameInRow="DIACHI_NV" msprop:Generator_ColumnPropNameInTable="DIACHI_NVColumn" msprop:Generator_UserColumnName="DIACHI_NV" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PHONE" msprop:Generator_ColumnVarNameInTable="columnPHONE" msprop:Generator_ColumnPropNameInRow="PHONE" msprop:Generator_ColumnPropNameInTable="PHONEColumn" msprop:Generator_UserColumnName="PHONE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VAITRO" msprop:Generator_ColumnVarNameInTable="columnVAITRO" msprop:Generator_ColumnPropNameInRow="VAITRO" msprop:Generator_ColumnPropNameInTable="VAITROColumn" msprop:Generator_UserColumnName="VAITRO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LAST_LOGIN" msprop:Generator_ColumnVarNameInTable="columnLAST_LOGIN" msprop:Generator_ColumnPropNameInRow="LAST_LOGIN" msprop:Generator_ColumnPropNameInTable="LAST_LOGINColumn" msprop:Generator_UserColumnName="LAST_LOGIN" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="REPORT_PHIEUMUON" msprop:Generator_TableClassName="REPORT_PHIEUMUONDataTable" msprop:Generator_TableVarName="tableREPORT_PHIEUMUON" msprop:Generator_TablePropName="REPORT_PHIEUMUON" msprop:Generator_RowDeletingName="REPORT_PHIEUMUONRowDeleting" msprop:Generator_RowChangingName="REPORT_PHIEUMUONRowChanging" msprop:Generator_RowEvHandlerName="REPORT_PHIEUMUONRowChangeEventHandler" msprop:Generator_RowDeletedName="REPORT_PHIEUMUONRowDeleted" msprop:Generator_UserTableName="REPORT_PHIEUMUON" msprop:Generator_RowChangedName="REPORT_PHIEUMUONRowChanged" msprop:Generator_RowEvArgName="REPORT_PHIEUMUONRowChangeEvent" msprop:Generator_RowClassName="REPORT_PHIEUMUONRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAPM" msprop:Generator_ColumnVarNameInTable="columnMAPM" msprop:Generator_ColumnPropNameInRow="MAPM" msprop:Generator_ColumnPropNameInTable="MAPMColumn" msprop:Generator_UserColumnName="MAPM">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MADG" msprop:Generator_ColumnVarNameInTable="columnMADG" msprop:Generator_ColumnPropNameInRow="MADG" msprop:Generator_ColumnPropNameInTable="MADGColumn" msprop:Generator_UserColumnName="MADG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MASH" msprop:Generator_ColumnVarNameInTable="columnMASH" msprop:Generator_ColumnPropNameInRow="MASH" msprop:Generator_ColumnPropNameInTable="MASHColumn" msprop:Generator_UserColumnName="MASH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NGAYLAP" msprop:Generator_ColumnVarNameInTable="columnNGAYLAP" msprop:Generator_ColumnPropNameInRow="NGAYLAP" msprop:Generator_ColumnPropNameInTable="NGAYLAPColumn" msprop:Generator_UserColumnName="NGAYLAP" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NGAYMUON" msprop:Generator_ColumnVarNameInTable="columnNGAYMUON" msprop:Generator_ColumnPropNameInRow="NGAYMUON" msprop:Generator_ColumnPropNameInTable="NGAYMUONColumn" msprop:Generator_UserColumnName="NGAYMUON" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="HANTRA" msprop:Generator_ColumnVarNameInTable="columnHANTRA" msprop:Generator_ColumnPropNameInRow="HANTRA" msprop:Generator_ColumnPropNameInTable="HANTRAColumn" msprop:Generator_UserColumnName="HANTRA" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NGAYTRA_THUCTE" msprop:Generator_ColumnVarNameInTable="columnNGAYTRA_THUCTE" msprop:Generator_ColumnPropNameInRow="NGAYTRA_THUCTE" msprop:Generator_ColumnPropNameInTable="NGAYTRA_THUCTEColumn" msprop:Generator_UserColumnName="NGAYTRA_THUCTE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TRANGTHAI" msprop:Generator_ColumnVarNameInTable="columnTRANGTHAI" msprop:Generator_ColumnPropNameInRow="TRANGTHAI" msprop:Generator_ColumnPropNameInTable="TRANGTHAIColumn" msprop:Generator_UserColumnName="TRANGTHAI" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MANV_PHUTRACH" msprop:Generator_ColumnVarNameInTable="columnMANV_PHUTRACH" msprop:Generator_ColumnPropNameInRow="MANV_PHUTRACH" msprop:Generator_ColumnPropNameInTable="MANV_PHUTRACHColumn" msprop:Generator_UserColumnName="MANV_PHUTRACH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="REPORT_PHIEUPHAT" msprop:Generator_TableClassName="REPORT_PHIEUPHATDataTable" msprop:Generator_TableVarName="tableREPORT_PHIEUPHAT" msprop:Generator_TablePropName="REPORT_PHIEUPHAT" msprop:Generator_RowDeletingName="REPORT_PHIEUPHATRowDeleting" msprop:Generator_RowChangingName="REPORT_PHIEUPHATRowChanging" msprop:Generator_RowEvHandlerName="REPORT_PHIEUPHATRowChangeEventHandler" msprop:Generator_RowDeletedName="REPORT_PHIEUPHATRowDeleted" msprop:Generator_UserTableName="REPORT_PHIEUPHAT" msprop:Generator_RowChangedName="REPORT_PHIEUPHATRowChanged" msprop:Generator_RowEvArgName="REPORT_PHIEUPHATRowChangeEvent" msprop:Generator_RowClassName="REPORT_PHIEUPHATRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAPM" msprop:Generator_ColumnVarNameInTable="columnMAPM" msprop:Generator_ColumnPropNameInRow="MAPM" msprop:Generator_ColumnPropNameInTable="MAPMColumn" msprop:Generator_UserColumnName="MAPM">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MADG" msprop:Generator_ColumnVarNameInTable="columnMADG" msprop:Generator_ColumnPropNameInRow="MADG" msprop:Generator_ColumnPropNameInTable="MADGColumn" msprop:Generator_UserColumnName="MADG">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MASH" msprop:Generator_ColumnVarNameInTable="columnMASH" msprop:Generator_ColumnPropNameInRow="MASH" msprop:Generator_ColumnPropNameInTable="MASHColumn" msprop:Generator_UserColumnName="MASH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NGAYLAP" msprop:Generator_ColumnVarNameInTable="columnNGAYLAP" msprop:Generator_ColumnPropNameInRow="NGAYLAP" msprop:Generator_ColumnPropNameInTable="NGAYLAPColumn" msprop:Generator_UserColumnName="NGAYLAP" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TIENPHAT" msprop:Generator_ColumnVarNameInTable="columnTIENPHAT" msprop:Generator_ColumnPropNameInRow="TIENPHAT" msprop:Generator_ColumnPropNameInTable="TIENPHATColumn" msprop:Generator_UserColumnName="TIENPHAT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PP_STATUS" msprop:Generator_ColumnVarNameInTable="columnPP_STATUS" msprop:Generator_ColumnPropNameInRow="PP_STATUS" msprop:Generator_ColumnPropNameInTable="PP_STATUSColumn" msprop:Generator_UserColumnName="PP_STATUS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:REPORT_NHANSU" />
+      <xs:field xpath="mstns:MANV" />
+    </xs:unique>
+    <xs:unique name="REPORT_PHIEUPHAT_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:REPORT_PHIEUPHAT" />
+      <xs:field xpath="mstns:MAPM" />
+      <xs:field xpath="mstns:MADG" />
+      <xs:field xpath="mstns:MASH" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

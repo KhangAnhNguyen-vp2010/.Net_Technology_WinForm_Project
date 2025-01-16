@@ -1,0 +1,113 @@
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\ReportNhanSu.rdlc
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\ReportPhieuMuon.rdlc
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\ReportPhieuPhat.rdlc
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DangKyNhanVien.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DocGia.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormLogin.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormNhanSu.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRP_PhieuMuon.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRP_PhieuPhat.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhanVien.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhaXuatBan.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.PhieuMuon.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.PhieuPhat.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QuanLyUser.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.SelectBaoCao.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TacGia.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TheLoai.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.manifest
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.application
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe.manifest
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.application
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\New folder\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QL_THUVIEN.mdf
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QL_THUVIEN_log.ldf
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.manifest
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.application
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DangKyNhanVien.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DocGia.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormLogin.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormNhanSu.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRP_PhieuMuon.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRP_PhieuPhat.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhanVien.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.NhaXuatBan.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.PhieuMuon.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.PhieuPhat.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QuanLyUser.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Sach.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.SelectBaoCao.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TacGia.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TheLoai.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TrangChu.resources
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe.manifest
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.application
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Background\house-7513001_640.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Background\library.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Background\library2.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-add-48.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-back-30.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-book-30.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-book-80.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-cancel-48.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-create-30.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-delete-48.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-exit-48.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-fix-30.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-give-book-64.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-logout-30.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-prev-50.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-reload-50.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-save-48.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-search-30.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-staff-100.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\icon\icons8-submit-48.png
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\NhanVien\staff_Nam.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\NhanVien\staff_Nu.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH001.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH002.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH003.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH004.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH005.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH006.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH007.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH008.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH009.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH010.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH011.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH012.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH013.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH014.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\Sach\SH015.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG001.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG002.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG003.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG004.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG005.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG006.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG007.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG008.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG009.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\img\TacGia\TG010.jpg
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\ReportNhanSu.rdlc
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\ReportPhieuMuon.rdlc
+C:\Users\lenovo\OneDrive\Desktop\New folder\Đại Học Ngành Công Nghệ Thông Tin\Công Nghệ.Net ( Winform )\DoAnBaoCao\QuanLyThuVien\QuanLyThuVien\bin\Debug\ReportPhieuPhat.rdlc
